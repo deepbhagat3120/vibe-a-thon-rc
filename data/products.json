@@ -1,0 +1,671 @@
+[
+  {
+    "id": "prod_sony_wh_ch720n",
+    "brand": "Sony",
+    "name": "Sony WH-CH720N",
+    "category": "Headphones",
+    "mrp": 14990,
+    "current_price": 9990,
+    "market_prices": [
+      {"source": "Amazon India", "price": 8499, "in_stock": true},
+      {"source": "Flipkart", "price": 8999, "in_stock": true},
+      {"source": "Croma", "price": 9490, "in_stock": true},
+      {"source": "Reliance Digital", "price": 8990, "in_stock": true}
+    ],
+    "discounts": [
+      {"type": "bank", "description": "10% Instant Discount on HDFC Bank Credit Cards", "percent": 10, "max_discount": 1000, "code": "HDFC10"},
+      {"type": "coupon", "description": "Flat ₹500 off on first purchase", "amount": 500, "code": "WELCOME500"}
+    ],
+    "rating": 4.2,
+    "review_count": 1420,
+    "reviews": [
+      {"rating": 5, "title": "Incredible lightweight ANC", "comment": "Active noise cancellation is decent for the price. Ultra-comfortable for 8 hours workdays.", "sentiment": "positive"},
+      {"rating": 4, "title": "Good sound, plastic feel", "comment": "Battery life lasts around 35 hours easily. The plastic headband feels a bit flimsy though.", "sentiment": "positive"},
+      {"rating": 4, "title": "Great mic for calls", "comment": "Multipoint connection works seamlessly between laptop and phone. Very satisfied.", "sentiment": "positive"},
+      {"rating": 3, "title": "Average bass", "comment": "Soundstage is fine but bass heads might find it slightly underwhelming without EQ.", "sentiment": "neutral"},
+      {"rating": 2, "title": "No folding hinge", "comment": "Earcups swivel flat but do not fold into the headband. Bulky to carry in backpack.", "sentiment": "negative"},
+      {"rating": 1, "title": "Cushion sweat", "comment": "Earcups get warm and sweaty in Indian summers after 1 hour.", "sentiment": "negative"}
+    ],
+    "pros": ["Lightweight (192g) for all-day wear", "Up to 35h battery with ANC", "V1 Integrated Processor for good ANC", "Seamless multipoint Bluetooth"],
+    "cons": ["Plasticky build feel", "Earcups get warm during humid weather", "Does not fold compactly"],
+    "recurring_complaints": ["Bulky storage / lack of carrying case", "Warm synthetic ear cushions"],
+    "specifications": {
+      "battery_life_hours": 35,
+      "noise_cancellation": "Active Noise Cancellation (V1 Chip)",
+      "connectivity": "Bluetooth 5.2 + 3.5mm Aux",
+      "weight_grams": 192,
+      "multipoint": true,
+      "warranty_months": 12,
+      "driver_size_mm": 30
+    },
+    "alternatives": ["prod_jbl_tune_770nc", "prod_boat_rockerz_550", "prod_sony_wh_1000xm4"],
+    "is_mock": true,
+    "mock_notice": "DEMO MOCK DATA - For RealityCheck Hackathon testing only"
+  },
+  {
+    "id": "prod_jbl_tune_770nc",
+    "brand": "JBL",
+    "name": "JBL Tune 770NC",
+    "category": "Headphones",
+    "mrp": 9999,
+    "current_price": 5999,
+    "market_prices": [
+      {"source": "Amazon India", "price": 5499, "in_stock": true},
+      {"source": "Flipkart", "price": 5999, "in_stock": true},
+      {"source": "JBL Official", "price": 6499, "in_stock": true}
+    ],
+    "discounts": [
+      {"type": "coupon", "description": "Flat ₹300 off on prepaid orders", "amount": 300, "code": "PREPAID300"}
+    ],
+    "rating": 4.1,
+    "review_count": 890,
+    "reviews": [
+      {"rating": 5, "title": "Punchy bass monster", "comment": "Signature JBL Pure Bass sound is energetic and loud. Great battery life of 44h with ANC.", "sentiment": "positive"},
+      {"rating": 4, "title": "Adaptive ANC is decent", "comment": "Good value for under 6k. ANC blocks engine rumble well.", "sentiment": "positive"},
+      {"rating": 2, "title": "Tight clamping force", "comment": "Presses quite hard against glasses, gets uncomfortable after 2 hours.", "sentiment": "negative"}
+    ],
+    "pros": ["Deep JBL Pure Bass", "Massive 44h battery with ANC", "Foldable portable design", "Value for money price tag"],
+    "cons": ["High clamping pressure on head", "Microphone quality is mediocre in noisy streets"],
+    "recurring_complaints": ["Clamping tightness on larger heads", "Subpar call microphone in wind"],
+    "specifications": {
+      "battery_life_hours": 44,
+      "noise_cancellation": "Adaptive Noise Cancellation",
+      "connectivity": "Bluetooth 5.3 + 3.5mm Aux",
+      "weight_grams": 232,
+      "multipoint": true,
+      "warranty_months": 12,
+      "driver_size_mm": 40
+    },
+    "alternatives": ["prod_sony_wh_ch720n", "prod_boat_rockerz_550"],
+    "is_mock": true,
+    "mock_notice": "DEMO MOCK DATA - For RealityCheck Hackathon testing only"
+  },
+  {
+    "id": "prod_sony_wh_1000xm4",
+    "brand": "Sony",
+    "name": "Sony WH-1000XM4",
+    "category": "Headphones",
+    "mrp": 29990,
+    "current_price": 22990,
+    "market_prices": [
+      {"source": "Amazon India", "price": 20990, "in_stock": true},
+      {"source": "Flipkart", "price": 21990, "in_stock": true},
+      {"source": "Croma", "price": 22990, "in_stock": true}
+    ],
+    "discounts": [
+      {"type": "bank", "description": "Flat ₹2,000 instant discount on ICICI Cards", "amount": 2000, "code": "ICICI2000"}
+    ],
+    "rating": 4.6,
+    "review_count": 8500,
+    "reviews": [
+      {"rating": 5, "title": "The Gold Standard ANC", "comment": "Silence on flights is miraculous. LDAC audio quality is crisp and rich.", "sentiment": "positive"},
+      {"rating": 5, "title": "Foldable and premium", "comment": "Folds neatly into travel case. Super comfortable plush cushions.", "sentiment": "positive"},
+      {"rating": 3, "title": "Microphone is only okay", "comment": "Call quality in noisy outdoor areas could be better for a 20k headphone.", "sentiment": "neutral"}
+    ],
+    "pros": ["Industry-leading ANC (QN1 chip)", "LDAC Hi-Res Audio support", "Folds into hard carry case", "Speak-to-chat & wear sensors"],
+    "cons": ["Higher price category", "Not water resistant"],
+    "recurring_complaints": ["Average mic quality in heavy ambient wind"],
+    "specifications": {
+      "battery_life_hours": 30,
+      "noise_cancellation": "Industry Leading ANC (HD QN1)",
+      "connectivity": "Bluetooth 5.0 (LDAC) + 3.5mm Aux",
+      "weight_grams": 254,
+      "multipoint": true,
+      "warranty_months": 12,
+      "driver_size_mm": 40
+    },
+    "alternatives": ["prod_bose_qc45", "prod_sony_wh_ch720n"],
+    "is_mock": true,
+    "mock_notice": "DEMO MOCK DATA - For RealityCheck Hackathon testing only"
+  },
+  {
+    "id": "prod_bose_qc45",
+    "brand": "Bose",
+    "name": "Bose QuietComfort 45",
+    "category": "Headphones",
+    "mrp": 32900,
+    "current_price": 24900,
+    "market_prices": [
+      {"source": "Amazon India", "price": 23990, "in_stock": true},
+      {"source": "Flipkart", "price": 24900, "in_stock": true},
+      {"source": "Reliance Digital", "price": 24900, "in_stock": true}
+    ],
+    "discounts": [
+      {"type": "bank", "description": "₹1500 instant discount on Axis Bank", "amount": 1500, "code": "AXIS1500"}
+    ],
+    "rating": 4.5,
+    "review_count": 4200,
+    "reviews": [
+      {"rating": 5, "title": "Unmatched comfort", "comment": "Zero clamping fatigue. Softest synthetic leather pads on earth.", "sentiment": "positive"},
+      {"rating": 4, "title": "Great ANC", "comment": "Blocks conversations and air conditioning hum effortlessly.", "sentiment": "positive"},
+      {"rating": 3, "title": "Cannot turn ANC completely off", "comment": "Only has Quiet and Aware modes, no off mode to save battery.", "sentiment": "neutral"}
+    ],
+    "pros": ["Legendary comfort for long flights", "Top-tier ANC", "Physical clicky buttons", "Folding compact build"],
+    "cons": ["No EQ customization without Bose app", "No pure ANC-off mode"],
+    "recurring_complaints": ["Wind noise in aware mode", "Battery life capped at 24h"],
+    "specifications": {
+      "battery_life_hours": 24,
+      "noise_cancellation": "Bose Quiet Acoustic ANC",
+      "connectivity": "Bluetooth 5.1 + 2.5mm to 3.5mm Aux",
+      "weight_grams": 240,
+      "multipoint": true,
+      "warranty_months": 12,
+      "driver_size_mm": 40
+    },
+    "alternatives": ["prod_sony_wh_1000xm4", "prod_sony_wh_ch720n"],
+    "is_mock": true,
+    "mock_notice": "DEMO MOCK DATA - For RealityCheck Hackathon testing only"
+  },
+  {
+    "id": "prod_boat_rockerz_550",
+    "brand": "boAt",
+    "name": "boAt Rockerz 550",
+    "category": "Headphones",
+    "mrp": 4999,
+    "current_price": 1799,
+    "market_prices": [
+      {"source": "Amazon India", "price": 1699, "in_stock": true},
+      {"source": "Flipkart", "price": 1799, "in_stock": true},
+      {"source": "boAt Official", "price": 1899, "in_stock": true}
+    ],
+    "discounts": [
+      {"type": "coupon", "description": "₹100 off on UPI payments", "amount": 100, "code": "UPI100"}
+    ],
+    "rating": 3.9,
+    "review_count": 21000,
+    "reviews": [
+      {"rating": 4, "title": "Heavy bass on budget", "comment": "Great bass for EDM and hip hop. Very cheap.", "sentiment": "positive"},
+      {"rating": 2, "title": "Very heavy on ears", "comment": "Weighs almost 300g and lacks active noise cancellation.", "sentiment": "negative"},
+      {"rating": 3, "title": "Average build", "comment": "Cushions started peeling after 8 months.", "sentiment": "neutral"}
+    ],
+    "pros": ["Extremely budget friendly", "50mm dynamic drivers with bass", "20 hours battery"],
+    "cons": ["No Active Noise Cancellation", "Bulky and heavy (298g)", "Synthetic foam peels easily"],
+    "recurring_complaints": ["Heavy weight causing neck strain", "Long-term cushion durability"],
+    "specifications": {
+      "battery_life_hours": 20,
+      "noise_cancellation": "Passive Isolation Only",
+      "connectivity": "Bluetooth 5.0 + 3.5mm Aux",
+      "weight_grams": 298,
+      "multipoint": false,
+      "warranty_months": 12,
+      "driver_size_mm": 50
+    },
+    "alternatives": ["prod_jbl_tune_770nc", "prod_sony_wh_ch720n"],
+    "is_mock": true,
+    "mock_notice": "DEMO MOCK DATA - For RealityCheck Hackathon testing only"
+  },
+  {
+    "id": "prod_oneplus_12r",
+    "brand": "OnePlus",
+    "name": "OnePlus 12R",
+    "category": "Smartphones",
+    "mrp": 42999,
+    "current_price": 39999,
+    "market_prices": [
+      {"source": "Amazon India", "price": 38999, "in_stock": true},
+      {"source": "OnePlus Store", "price": 39999, "in_stock": true},
+      {"source": "Croma", "price": 39999, "in_stock": true}
+    ],
+    "discounts": [
+      {"type": "bank", "description": "Flat ₹1,500 instant discount on OneCard", "amount": 1500, "code": "ONECARD1500"}
+    ],
+    "rating": 4.4,
+    "review_count": 3200,
+    "reviews": [
+      {"rating": 5, "title": "Performance powerhouse", "comment": "Snapdragon 8 Gen 2 handles every game at 60-90 fps with ease. 100W charging fills battery in 26 mins.", "sentiment": "positive"},
+      {"rating": 4, "title": "Great display", "comment": "120Hz 1.5K LTPO AMOLED is sharp and vivid in direct sun.", "sentiment": "positive"},
+      {"rating": 3, "title": "Average auxiliary cameras", "comment": "Main 50MP Sony IMX890 is good, but 8MP ultrawide and 2MP macro are mediocre.", "sentiment": "neutral"}
+    ],
+    "pros": ["Snapdragon 8 Gen 2 flagship silicon", "5500mAh battery + 100W SUPERVOOC", "Curved 1.5K ProXDR 120Hz display"],
+    "cons": ["No wireless charging", "No telephoto zoom lens", "Only IP64 splash resistance"],
+    "recurring_complaints": ["Weak secondary cameras", "No wireless charging in 40k segment"],
+    "specifications": {
+      "processor": "Qualcomm Snapdragon 8 Gen 2",
+      "display": "6.78-inch 1.5K 120Hz AMOLED LTPO4",
+      "ram_rom": "8GB / 128GB UFS 3.1",
+      "battery_mah": 5500,
+      "charging_watt": 100,
+      "main_camera_mp": 50,
+      "weight_grams": 207,
+      "warranty_months": 12
+    },
+    "alternatives": ["prod_samsung_s23_fe", "prod_pixel_8a"],
+    "is_mock": true,
+    "mock_notice": "DEMO MOCK DATA - For RealityCheck Hackathon testing only"
+  },
+  {
+    "id": "prod_samsung_s23_fe",
+    "brand": "Samsung",
+    "name": "Samsung Galaxy S23 FE",
+    "category": "Smartphones",
+    "mrp": 54999,
+    "current_price": 39999,
+    "market_prices": [
+      {"source": "Amazon India", "price": 38499, "in_stock": true},
+      {"source": "Samsung Shop", "price": 39999, "in_stock": true},
+      {"source": "Flipkart", "price": 38999, "in_stock": true}
+    ],
+    "discounts": [
+      {"type": "bank", "description": "Flat ₹2,000 instant discount on HDFC / SBI Cards", "amount": 2000, "code": "SAMSUNG2K"}
+    ],
+    "rating": 4.1,
+    "review_count": 2900,
+    "reviews": [
+      {"rating": 5, "title": "Superb cameras and IP68", "comment": "Camera processing is identical to flagship S23. 3x telephoto works wonders.", "sentiment": "positive"},
+      {"rating": 2, "title": "Exynos heats up", "comment": "Exynos 2200 runs warm during gaming and battery life drains by 6pm.", "sentiment": "negative"},
+      {"rating": 4, "title": "One UI software support", "comment": "4 years OS upgrades and Samsung DeX support are top-tier.", "sentiment": "positive"}
+    ],
+    "pros": ["Telephoto 3x optical zoom lens", "IP68 water/dust resistance + Wireless charging", "4 years of Android OS upgrades"],
+    "cons": ["Exynos 2200 runs warmer than Snapdragon", "Slow 25W charging, no charger in box", "Thick bezels around screen"],
+    "recurring_complaints": ["Thermal throttling under heavy loads", "Sub-par battery longevity"],
+    "specifications": {
+      "processor": "Samsung Exynos 2200 (4nm)",
+      "display": "6.4-inch FHD+ 120Hz Dynamic AMOLED 2X",
+      "ram_rom": "8GB / 128GB UFS 3.1",
+      "battery_mah": 4500,
+      "charging_watt": 25,
+      "main_camera_mp": 50,
+      "weight_grams": 209,
+      "warranty_months": 12
+    },
+    "alternatives": ["prod_oneplus_12r", "prod_pixel_8a"],
+    "is_mock": true,
+    "mock_notice": "DEMO MOCK DATA - For RealityCheck Hackathon testing only"
+  },
+  {
+    "id": "prod_pixel_8a",
+    "brand": "Google",
+    "name": "Google Pixel 8a",
+    "category": "Smartphones",
+    "mrp": 52999,
+    "current_price": 43999,
+    "market_prices": [
+      {"source": "Flipkart", "price": 41999, "in_stock": true},
+      {"source": "Croma", "price": 43999, "in_stock": true}
+    ],
+    "discounts": [
+      {"type": "bank", "description": "₹3,000 off on SBI Credit Cards", "amount": 3000, "code": "SBI3000"}
+    ],
+    "rating": 4.3,
+    "review_count": 1850,
+    "reviews": [
+      {"rating": 5, "title": "Best mobile camera for photography", "comment": "Still shots, skin tones, and Astrophotography are unmatched. 7 years of OS updates!", "sentiment": "positive"},
+      {"rating": 3, "title": "Slow 18W charging", "comment": "Takes 1 hour 45 minutes to charge from 0 to 100%.", "sentiment": "neutral"},
+      {"rating": 4, "title": "Compact form factor", "comment": "Feels great in one hand, lovely matte finish back.", "sentiment": "positive"}
+    ],
+    "pros": ["Industry-leading computational photography", "7 years guaranteed Android OS & security updates", "IP67 rating and compact 6.1-inch form factor"],
+    "cons": ["18W charging speed feels outdated", "Tensor G3 runs warm during sustained 4K video"],
+    "recurring_complaints": ["Slow charging duration", "Screen bezels thicker than competitors"],
+    "specifications": {
+      "processor": "Google Tensor G3 (Titan M2 security)",
+      "display": "6.1-inch OLED Actua Display 120Hz",
+      "ram_rom": "8GB / 128GB UFS 3.1",
+      "battery_mah": 4492,
+      "charging_watt": 18,
+      "main_camera_mp": 64,
+      "weight_grams": 188,
+      "warranty_months": 12
+    },
+    "alternatives": ["prod_oneplus_12r", "prod_samsung_s23_fe"],
+    "is_mock": true,
+    "mock_notice": "DEMO MOCK DATA - For RealityCheck Hackathon testing only"
+  },
+  {
+    "id": "prod_macbook_air_m2",
+    "brand": "Apple",
+    "name": "Apple MacBook Air M2",
+    "category": "Laptops",
+    "mrp": 99900,
+    "current_price": 84990,
+    "market_prices": [
+      {"source": "Amazon India", "price": 82990, "in_stock": true},
+      {"source": "Flipkart", "price": 84990, "in_stock": true},
+      {"source": "Apple Store Online", "price": 99900, "in_stock": true},
+      {"source": "Vijay Sales", "price": 83990, "in_stock": true}
+    ],
+    "discounts": [
+      {"type": "bank", "description": "Flat ₹5,000 instant discount with HDFC Bank Cards", "amount": 5000, "code": "HDFC5000"}
+    ],
+    "rating": 4.7,
+    "review_count": 6100,
+    "reviews": [
+      {"rating": 5, "title": "Unrivalled battery life and quietness", "comment": "Fanless silent operation with 16+ hours actual battery life. Liquid Retina display is gorgeous.", "sentiment": "positive"},
+      {"rating": 4, "title": "Base 8GB RAM limitation", "comment": "Great for web, documents, light editing. Heavy multitasking starts using swap memory.", "sentiment": "neutral"},
+      {"rating": 5, "title": "MagSafe and build quality", "comment": "Midnight color looks stunner. MagSafe charging frees up thunderbolt ports.", "sentiment": "positive"}
+    ],
+    "pros": ["Exceptional 16-18h real battery life", "Completely fanless silent operation", "Sturdy premium CNC aluminum chassis", "MagSafe 3 charging port"],
+    "cons": ["Base model has only 8GB unified memory", "Supports only 1 external display natively"],
+    "recurring_complaints": ["Midnight color attracts finger grease", "Base 256GB SSD has slower read speeds than 512GB"],
+    "specifications": {
+      "processor": "Apple M2 chip (8-core CPU, 8-core GPU)",
+      "ram": "8GB Unified Memory",
+      "storage": "256GB NVMe SSD",
+      "display": "13.6-inch Liquid Retina (2560x1664, 500 nits)",
+      "battery_life_hours": 18,
+      "weight_kg": 1.24,
+      "warranty_months": 12
+    },
+    "alternatives": ["prod_asus_zenbook_14", "prod_lenovo_ideapad_slim3"],
+    "is_mock": true,
+    "mock_notice": "DEMO MOCK DATA - For RealityCheck Hackathon testing only"
+  },
+  {
+    "id": "prod_asus_zenbook_14",
+    "brand": "ASUS",
+    "name": "ASUS Zenbook 14 OLED",
+    "category": "Laptops",
+    "mrp": 105990,
+    "current_price": 89990,
+    "market_prices": [
+      {"source": "Amazon India", "price": 87990, "in_stock": true},
+      {"source": "ASUS eShop", "price": 89990, "in_stock": true},
+      {"source": "Croma", "price": 89990, "in_stock": true}
+    ],
+    "discounts": [
+      {"type": "coupon", "description": "Flat ₹2,500 corporate / student coupon", "amount": 2500, "code": "EDU2500"}
+    ],
+    "rating": 4.3,
+    "review_count": 920,
+    "reviews": [
+      {"rating": 5, "title": "Jaw-dropping 3K OLED screen", "comment": "120Hz 3K OLED panel is unmatched for movies and creative design. Deep blacks.", "sentiment": "positive"},
+      {"rating": 4, "title": "Intel Core Ultra 7 is punchy", "comment": "Decent battery life of 10-11 hours with great iGPU performance.", "sentiment": "positive"},
+      {"rating": 3, "title": "OLED gloss reflections", "comment": "Glossy glass screen reflects overhead office lights.", "sentiment": "neutral"}
+    ],
+    "pros": ["Stunning 14-inch 3K 120Hz Lumina OLED display", "Intel Core Ultra 7 processor with NPU for AI", "Rich I/O ports: HDMI 2.1, Thunderbolt 4, USB-A"],
+    "cons": ["Reflective glossy screen outdoors", "Speakers are average compared to MacBook"],
+    "recurring_complaints": ["Fan noise kicks in under heavy compiling", "Fingerprints on aluminum lid"],
+    "specifications": {
+      "processor": "Intel Core Ultra 7 155H (16 Cores, Intel Arc)",
+      "ram": "16GB LPDDR5X",
+      "storage": "1TB PCIe 4.0 SSD",
+      "display": "14.0-inch 3K 120Hz OLED (2880x1800, 600 nits)",
+      "battery_life_hours": 12,
+      "weight_kg": 1.28,
+      "warranty_months": 12
+    },
+    "alternatives": ["prod_macbook_air_m2", "prod_lenovo_ideapad_slim3"],
+    "is_mock": true,
+    "mock_notice": "DEMO MOCK DATA - For RealityCheck Hackathon testing only"
+  },
+  {
+    "id": "prod_lenovo_ideapad_slim3",
+    "brand": "Lenovo",
+    "name": "Lenovo IdeaPad Slim 3",
+    "category": "Laptops",
+    "mrp": 54990,
+    "current_price": 38990,
+    "market_prices": [
+      {"source": "Amazon India", "price": 37490, "in_stock": true},
+      {"source": "Flipkart", "price": 38990, "in_stock": true},
+      {"source": "Lenovo Store", "price": 39490, "in_stock": true}
+    ],
+    "discounts": [
+      {"type": "coupon", "description": "Flat ₹1,000 off on online payment", "amount": 1000, "code": "SAVE1000"}
+    ],
+    "rating": 4.0,
+    "review_count": 3100,
+    "reviews": [
+      {"rating": 4, "title": "Solid college & office daily driver", "comment": "Handles spreadsheets, Chrome with 20 tabs, and Zoom with no lag.", "sentiment": "positive"},
+      {"rating": 2, "title": "TN screen viewing angles", "comment": "Display looks washed out if you tilt screen slightly.", "sentiment": "negative"}
+    ],
+    "pros": ["Budget friendly pricing", "Fast 12th/13th Gen Intel Core i3/i5", "Full numeric keypad"],
+    "cons": ["Washed out TN panel display", "Plastic body chassis", "5-6 hour battery life"],
+    "recurring_complaints": ["Poor screen color gamut (45% NTSC)", "Average plastic touchpad"],
+    "specifications": {
+      "processor": "Intel Core i3-1305U (5 Cores)",
+      "ram": "8GB DDR4 (Upgradable)",
+      "storage": "512GB NVMe SSD",
+      "display": "15.6-inch FHD Antiglare (1920x1080, 250 nits)",
+      "battery_life_hours": 6,
+      "weight_kg": 1.62,
+      "warranty_months": 24
+    },
+    "alternatives": ["prod_macbook_air_m2", "prod_asus_zenbook_14"],
+    "is_mock": true,
+    "mock_notice": "DEMO MOCK DATA - For RealityCheck Hackathon testing only"
+  },
+  {
+    "id": "prod_apple_watch_se",
+    "brand": "Apple",
+    "name": "Apple Watch SE (2nd Gen)",
+    "category": "Smartwatches",
+    "mrp": 29900,
+    "current_price": 24900,
+    "market_prices": [
+      {"source": "Amazon India", "price": 23499, "in_stock": true},
+      {"source": "Flipkart", "price": 24900, "in_stock": true},
+      {"source": "Apple Store", "price": 29900, "in_stock": true}
+    ],
+    "discounts": [
+      {"type": "bank", "description": "₹2,000 instant bank discount on HDFC", "amount": 2000, "code": "HDFC2K"}
+    ],
+    "rating": 4.5,
+    "review_count": 2800,
+    "reviews": [
+      {"rating": 5, "title": "Seamless iPhone companion", "comment": "Crash detection, heart rate tracking, and fitness rings are accurate and smooth.", "sentiment": "positive"},
+      {"rating": 3, "title": "1-day battery annoyance", "comment": "Must charge daily before bed or in the morning.", "sentiment": "neutral"}
+    ],
+    "pros": ["Flawless watchOS integration with iPhone", "Accurate optical heart sensor & sleep tracking", "Crash detection & fall detection"],
+    "cons": ["No Always-On Display", "Daily charging required (~18h battery)", "Requires iPhone (no Android support)"],
+    "recurring_complaints": ["Short 18-hour battery cycle", "No ECG or blood oxygen sensor"],
+    "specifications": {
+      "display": "1.78-inch Retina OLED (1000 nits, No AOD)",
+      "battery_life_hours": 18,
+      "water_resistance": "50m swimproof (WR50)",
+      "sensors": "Optical Heart Sensor (2nd gen), Crash Detection",
+      "os_compatibility": "iOS Only",
+      "warranty_months": 12
+    },
+    "alternatives": ["prod_galaxy_watch_6"],
+    "is_mock": true,
+    "mock_notice": "DEMO MOCK DATA - For RealityCheck Hackathon testing only"
+  },
+  {
+    "id": "prod_galaxy_watch_6",
+    "brand": "Samsung",
+    "name": "Samsung Galaxy Watch 6",
+    "category": "Smartwatches",
+    "mrp": 33999,
+    "current_price": 19999,
+    "market_prices": [
+      {"source": "Amazon India", "price": 18999, "in_stock": true},
+      {"source": "Samsung Shop", "price": 19999, "in_stock": true},
+      {"source": "Croma", "price": 20999, "in_stock": true}
+    ],
+    "discounts": [
+      {"type": "bank", "description": "₹1,500 off on Samsung Axis Bank Credit Cards", "amount": 1500, "code": "AXISSAM15"}
+    ],
+    "rating": 4.3,
+    "review_count": 1950,
+    "reviews": [
+      {"rating": 5, "title": "Best smartwatch for Android", "comment": "Vibrant Super AMOLED screen with razor-thin bezel. Body composition BIA sensor is neat.", "sentiment": "positive"},
+      {"rating": 2, "title": "30h battery is still short", "comment": "Have to charge every single day and half.", "sentiment": "negative"}
+    ],
+    "pros": ["Super AMOLED with Always-On display & Sapphire crystal", "BioActive sensor (ECG, Blood Pressure, BIA)", "Wear OS with Google Play & Google Maps"],
+    "cons": ["Some features (ECG/BP) locked to Samsung phones", "1.5 day battery life only"],
+    "recurring_complaints": ["Proprietary Samsung health lock-in for ECG", "Battery drainage with AOD enabled"],
+    "specifications": {
+      "display": "1.5-inch Super AMOLED (480x480, Sapphire Crystal)",
+      "battery_life_hours": 36,
+      "water_resistance": "5ATM + IP68 + MIL-STD-810H",
+      "sensors": "Samsung BioActive (Optical Heart + ECG + BIA)",
+      "os_compatibility": "Android (Wear OS 4)",
+      "warranty_months": 12
+    },
+    "alternatives": ["prod_apple_watch_se"],
+    "is_mock": true,
+    "mock_notice": "DEMO MOCK DATA - For RealityCheck Hackathon testing only"
+  },
+  {
+    "id": "prod_acousticpro_x1",
+    "brand": "AcousticPro",
+    "name": "AcousticPro Echo X1",
+    "category": "Headphones",
+    "mrp": 7999,
+    "current_price": 4999,
+    "market_prices": [
+      {"source": "Store Alpha", "price": 4899, "in_stock": true},
+      {"source": "Store Beta", "price": 4999, "in_stock": true}
+    ],
+    "discounts": [],
+    "rating": 0,
+    "review_count": 0,
+    "reviews": [],
+    "pros": [],
+    "cons": [],
+    "recurring_complaints": [],
+    "specifications": {
+      "battery_life_hours": 25,
+      "noise_cancellation": "Hybrid ANC",
+      "connectivity": "Bluetooth 5.3",
+      "weight_grams": 210,
+      "warranty_months": 6
+    },
+    "alternatives": ["prod_jbl_tune_770nc", "prod_sony_wh_ch720n"],
+    "is_mock": true,
+    "mock_notice": "DEMO MOCK DATA - Product with 0 customer reviews for benchmark scenario 4"
+  },
+  {
+    "id": "prod_hyperdrive_nova5",
+    "brand": "HyperDrive",
+    "name": "HyperDrive Nova 5",
+    "category": "Smartphones",
+    "mrp": 29999,
+    "current_price": 0,
+    "market_prices": [],
+    "discounts": [],
+    "rating": 3.8,
+    "review_count": 12,
+    "reviews": [
+      {"rating": 4, "title": "Fast screen", "comment": "120Hz looks snappy.", "sentiment": "positive"}
+    ],
+    "pros": ["Snapdragon 7 Gen 1"],
+    "cons": ["Rare availability"],
+    "recurring_complaints": [],
+    "specifications": {
+      "processor": "Snapdragon 7 Gen 1",
+      "ram_rom": "6GB / 128GB",
+      "battery_mah": 4500,
+      "warranty_months": 12
+    },
+    "alternatives": ["prod_oneplus_12r"],
+    "is_mock": true,
+    "mock_notice": "DEMO MOCK DATA - Product with missing/empty market prices for benchmark scenario 5"
+  },
+  {
+    "id": "prod_iphone_15",
+    "brand": "Apple",
+    "name": "Apple iPhone 15",
+    "category": "Smartphones",
+    "mrp": 79900,
+    "current_price": 65999,
+    "market_prices": [
+      {"source": "Amazon India", "price": 64999, "in_stock": true},
+      {"source": "Flipkart", "price": 65999, "in_stock": true},
+      {"source": "Apple Store Online", "price": 79900, "in_stock": true}
+    ],
+    "discounts": [
+      {"type": "bank", "description": "Flat ₹4,000 instant discount on ICICI / SBI Credit Cards", "amount": 4000, "code": "APPLE4K"}
+    ],
+    "rating": 4.6,
+    "review_count": 8200,
+    "reviews": [
+      {"rating": 5, "title": "Dynamic Island and USB-C", "comment": "Finally USB-C! The 48MP camera takes crisp 24MP default shots with natural skin tones.", "sentiment": "positive"},
+      {"rating": 4, "title": "Great daily phone", "comment": "Battery easily lasts all day. Display is super bright at 2000 nits outdoors.", "sentiment": "positive"},
+      {"rating": 3, "title": "Still 60Hz screen", "comment": "For a ₹65,000 phone, 60Hz display feels sluggish if you come from 120Hz Android.", "sentiment": "neutral"}
+    ],
+    "pros": ["48MP main camera with 2x lossless crop", "USB-C port and Dynamic Island", "Super bright 2000 nits OLED display", "A16 Bionic dependable performance"],
+    "cons": ["Standard 60Hz display refresh rate", "Slow 20W wired charging speed"],
+    "recurring_complaints": ["60Hz screen at premium price point", "Slow battery charging times"],
+    "specifications": {
+      "processor": "Apple A16 Bionic (6-core CPU, 5-core GPU)",
+      "display": "6.1-inch Super Retina XDR OLED (60Hz, 2000 nits peak)",
+      "ram_rom": "6GB / 128GB",
+      "battery_mah": 3349,
+      "charging_watt": 20,
+      "main_camera_mp": 48,
+      "weight_grams": 171,
+      "warranty_months": 12
+    },
+    "alternatives": ["prod_samsung_s23_fe", "prod_oneplus_12r", "prod_pixel_8a"],
+    "is_mock": true,
+    "mock_notice": "DEMO MOCK DATA - For RealityCheck Hackathon testing only"
+  },
+  {
+    "id": "prod_airpods_pro_2",
+    "brand": "Apple",
+    "name": "Apple AirPods Pro (2nd Gen)",
+    "category": "Headphones",
+    "mrp": 24900,
+    "current_price": 20999,
+    "market_prices": [
+      {"source": "Amazon India", "price": 19999, "in_stock": true},
+      {"source": "Flipkart", "price": 20999, "in_stock": true},
+      {"source": "Croma", "price": 21990, "in_stock": true}
+    ],
+    "discounts": [
+      {"type": "bank", "description": "Flat ₹1,500 instant discount on HDFC Cards", "amount": 1500, "code": "HDFC1500"}
+    ],
+    "rating": 4.7,
+    "review_count": 5400,
+    "reviews": [
+      {"rating": 5, "title": "Magic Noise Cancellation", "comment": "H2 chip ANC cuts out office drone completely. Transparency mode is unmatched in naturalness.", "sentiment": "positive"},
+      {"rating": 5, "title": "USB-C and Find My Case", "comment": "The speaker in the case makes finding lost AirPods effortless.", "sentiment": "positive"},
+      {"rating": 3, "title": "White silicone gets dirty", "comment": "Ear tips need regular cleaning and replacement every 6 months.", "sentiment": "neutral"}
+    ],
+    "pros": ["Class-leading Active Noise Cancellation & Adaptive Audio", "Industry-best Natural Transparency mode", "MagSafe charging case with USB-C and speaker for Find My"],
+    "cons": ["High premium price", "Full features exclusive to Apple devices"],
+    "recurring_complaints": ["Silicon tip ear-wax buildup", "Non-repairable battery wear over 3 years"],
+    "specifications": {
+      "battery_life_hours": 30,
+      "noise_cancellation": "Active Noise Cancellation (H2 chip)",
+      "connectivity": "Bluetooth 5.3",
+      "weight_grams": 51,
+      "multipoint": true,
+      "warranty_months": 12
+    },
+    "alternatives": ["prod_sony_wh_1000xm4", "prod_bose_qc45", "prod_sony_wh_ch720n"],
+    "is_mock": true,
+    "mock_notice": "DEMO MOCK DATA - For RealityCheck Hackathon testing only"
+  },
+  {
+    "id": "prod_samsung_s24_ultra",
+    "brand": "Samsung",
+    "name": "Samsung Galaxy S24 Ultra",
+    "category": "Smartphones",
+    "mrp": 129999,
+    "current_price": 119999,
+    "market_prices": [
+      {"source": "Amazon India", "price": 114999, "in_stock": true},
+      {"source": "Samsung Shop", "price": 119999, "in_stock": true},
+      {"source": "Croma", "price": 119999, "in_stock": true}
+    ],
+    "discounts": [
+      {"type": "bank", "description": "Flat ₹6,000 instant bank discount on HDFC / SBI", "amount": 6000, "code": "S24U6K"}
+    ],
+    "rating": 4.7,
+    "review_count": 4100,
+    "reviews": [
+      {"rating": 5, "title": "The Ultimate Android Flagship", "comment": "Flat anti-reflective Gorilla Armor screen is a game changer. 200MP camera and 5x optical zoom are stunning.", "sentiment": "positive"},
+      {"rating": 4, "title": "Galaxy AI features", "comment": "Circle to Search and live translation work seamlessly.", "sentiment": "positive"},
+      {"rating": 3, "title": "Heavy brick in pocket", "comment": "At 232g with sharp corners, one-handed use is very tricky.", "sentiment": "neutral"}
+    ],
+    "pros": ["Anti-reflective Gorilla Armor flat screen", "Snapdragon 8 Gen 3 for Galaxy powerhouse", "Built-in S-Pen stylus", "7 years of OS & security upgrades"],
+    "cons": ["Heavy weight (232g) and sharp titanium corners", "Very high flagship pricing"],
+    "recurring_complaints": ["Heavy form factor in pants pocket", "No charger included in box"],
+    "specifications": {
+      "processor": "Qualcomm Snapdragon 8 Gen 3 for Galaxy",
+      "display": "6.8-inch QHD+ 120Hz Dynamic AMOLED 2X (2600 nits, Anti-Reflective)",
+      "ram_rom": "12GB / 256GB UFS 4.0",
+      "battery_mah": 5000,
+      "charging_watt": 45,
+      "main_camera_mp": 200,
+      "weight_grams": 232,
+      "warranty_months": 12
+    },
+    "alternatives": ["prod_oneplus_12r", "prod_pixel_8a", "prod_samsung_s23_fe"],
+    "is_mock": true,
+    "mock_notice": "DEMO MOCK DATA - For RealityCheck Hackathon testing only"
+  }
+]
+

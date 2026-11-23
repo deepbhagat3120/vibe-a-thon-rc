@@ -1,0 +1,54 @@
+{
+  "$schema": "https://synapse.2ndbrainlabs.ai/schema/v2/config.json",
+  "project_name": "realitycheck",
+  "version": "1.0.0",
+  "track": "Track 2: One Smart Tool from Many Small Functions",
+  "synapse_mode": "custom",
+  "composition": {
+    "intent": "Compose purchasing investigation functions into one smart tool",
+    "target_tool_name": "investigate_purchase",
+    "target_server": "synapse/investigate_purchase_server.py",
+    "composed_functions": [
+      {
+        "module": "src.product_search",
+        "function": "search_product",
+        "description": "Fuzzy catalog lookup and model disambiguation"
+      },
+      {
+        "module": "src.price_analysis",
+        "function": "compare_prices",
+        "description": "Retail market benchmark comparison and competitiveness tiering"
+      },
+      {
+        "module": "src.discount_analysis",
+        "function": "find_discounts",
+        "description": "Promo coupon and non-stackable bank offer evaluation"
+      },
+      {
+        "module": "src.review_analysis",
+        "function": "analyze_reviews",
+        "description": "Customer feedback sentiment analysis and recurring defect detection"
+      },
+      {
+        "module": "src.alternatives",
+        "function": "find_alternatives",
+        "description": "Direct category peer and value alternative discovery"
+      },
+      {
+        "module": "src.spec_comparison",
+        "function": "compare_specs",
+        "description": "Hardware specification matrix comparison"
+      },
+      {
+        "module": "src.value_scoring",
+        "function": "calculate_value_score",
+        "description": "Deterministic 0-100 value-for-money scoring engine"
+      }
+    ]
+  },
+  "mcp_server": {
+    "transport": "stdio",
+    "runtime": "python",
+    "entrypoint": "synapse/investigate_purchase_server.py"
+  }
+}

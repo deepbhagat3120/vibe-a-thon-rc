@@ -1,0 +1,47 @@
+[
+  {
+    "scenario_id": "scenario_1_normal",
+    "title": "Scenario 1: Normal Product Investigation",
+    "description": "Standard balanced investigation with complete price and review history.",
+    "product_name": "Sony WH-CH720N",
+    "user_price": 8999.0,
+    "user_requirements": "Active noise cancellation for work-from-home calls and travel",
+    "expected_verdict_category": ["BUY", "WAIT"]
+  },
+  {
+    "scenario_id": "scenario_2_high_price",
+    "title": "Scenario 2: Product with High User-Provided Price",
+    "description": "Product is reputable but offered price is significantly higher than competitor benchmarks.",
+    "product_name": "Sony WH-CH720N",
+    "user_price": 12499.0,
+    "user_requirements": "Office work and occasional flying",
+    "expected_verdict_category": ["WAIT", "AVOID"]
+  },
+  {
+    "scenario_id": "scenario_3_competitive_price",
+    "title": "Scenario 3: Product with Highly Competitive Price",
+    "description": "Price offered is below or at the lowest recorded marketplace rate.",
+    "product_name": "JBL Tune 770NC",
+    "user_price": 5299.0,
+    "user_requirements": "Bass-heavy music and massive battery life",
+    "expected_verdict_category": ["BUY"]
+  },
+  {
+    "scenario_id": "scenario_4_missing_reviews",
+    "title": "Scenario 4: Product with Missing Review Data",
+    "description": "Catalog item with 0 verified customer reviews; tests sentiment resilience and confidence downgrading.",
+    "product_name": "AcousticPro Echo X1",
+    "user_price": 4900.0,
+    "user_requirements": "Budget ANC headphones",
+    "expected_verdict_category": ["WAIT", "AVOID"]
+  },
+  {
+    "scenario_id": "scenario_5_incomplete_prices",
+    "title": "Scenario 5: Product with Incomplete Market Price Data",
+    "description": "Item with no retailer market prices; tests edge-case handling for price benchmarks.",
+    "product_name": "HyperDrive Nova 5",
+    "user_price": 24999.0,
+    "user_requirements": "Gaming and multi-app multitasking",
+    "expected_verdict_category": ["WAIT", "AVOID"]
+  }
+]
